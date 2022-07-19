@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashwin-acharya01
 - 👀 I’m interested in Programming and Designing
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 You can reach me at acharya.ashwin06@gmail.com
 
 <!---
