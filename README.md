@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashwin-acharya01
+- 👋 Hi, I’m Ashwin Acharya
 - 👀 I’m interested in Programming and Designing
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web Development Projects
