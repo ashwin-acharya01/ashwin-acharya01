@@ -8,6 +8,7 @@
 ashwin-acharya01/ashwin-acharya01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwin-acharya01" alt="ashwin-acharya01" /></a> </p>
 
